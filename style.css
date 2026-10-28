@@ -6,4 +6,24 @@
 }
 .text-white{
     color: white;
+    text-align: center;
+}
+
+.btn-black{
+background-color: black;
+color: white;
+border-radius: 10px;
+padding: 12px 20px;
+}
+.btn-white{
+background-color: white;
+color: black;
+border-radius: 10px;
+padding: 12px 20px;
+}
+.bg-partenaire{
+    background-image: url(Images/bg-image-2.webp)
+    height: 500px;
+    background-size: cover;
+    background-position: center;
 }
