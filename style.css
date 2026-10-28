@@ -1,0 +1,9 @@
+.bg-hero{
+    background-image: url(/Images/bg-image-hero.webp);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.text-white{
+    color: white;
+}
